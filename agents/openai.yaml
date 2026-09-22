@@ -1,0 +1,10 @@
+interface:
+  display_name: "灵蟹像素风配图"
+  short_description: "将文章、活动策划与产品更新内容转成灵蟹品牌像素风配图"
+  icon_small: "./assets/lingxie-logo-reference.png"
+  icon_large: "./assets/lingxie-logo-reference.png"
+  brand_color: "#F33A32"
+  default_prompt: "使用 $lingxie-pixel-illustrations 把以下内容做成一张符合发布场景的灵蟹像素风配图。"
+
+policy:
+  allow_implicit_invocation: true
